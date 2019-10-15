@@ -14,4 +14,10 @@ echo $var3;
 echo "<h1>Hello World</h1> $var".$var."".$var1;
 ?>
 </body>
+</html></body>
+</html></body>
+</html></body>
+</html></body>
+</html></body>
+</html></body>
 </html>
